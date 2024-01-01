@@ -5,3 +5,4 @@ Portfolio Performance -> Edit security -> Historical Quotes -> Provider: Table o
 
 
 
+![image](https://github.com/nexusblink9k/mak/assets/124879531/2048d9f4-897d-430c-bfa6-9b560d50346b)
